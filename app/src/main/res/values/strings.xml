@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmartDrive</string>
+    <string name="title_activity_nav">Smart Drive</string>
+    <string name="meun_open_dest">Change Destination</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="set_dest_text">Set your destination</string>
+    <string name="cancel">cancel</string>
+    <string name="ok">GO</string>
+</resources>
